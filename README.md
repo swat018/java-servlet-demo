@@ -6,3 +6,6 @@
   - 스프링 IoC 컨테이너 연동
   - 스프링 MVC 연동
   - DispatcherServlet
+- 2부. 스프링 MVC 설정
+  -  
+  - 스프링 MVC 빈 설정
