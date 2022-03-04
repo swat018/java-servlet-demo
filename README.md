@@ -10,3 +10,4 @@
   -  
   - 스프링 MVC 빈 설정
   - @EnableWebMvc
+  - WebMvcConfigurer
