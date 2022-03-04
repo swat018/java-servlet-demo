@@ -9,3 +9,4 @@
 - 2부. 스프링 MVC 설정
   -  
   - 스프링 MVC 빈 설정
+  - @EnableWebMvc
